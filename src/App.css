@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+
+  --color-correct: #6aaa64;
+  --color-present: #c9b458;
+  --color-absent: #787c7e;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.message {
+  margin-top: 20px;
+  font-size: 18px;
+  color: #333;
+}
+
+.instructions {
+  margin-top: 10px;
+  font-size: 14px;
+  color: #666;
+}
+
+/* ------------------------------------------------- */
